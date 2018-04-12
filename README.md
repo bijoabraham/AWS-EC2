@@ -9,3 +9,6 @@ Creating EC2 instances
 1. Create security group
 2. create key pair
 3. use key and security group to run/create EC2
+
+Describe EC2 instances
+1. use filer paramters to narrow down search result
