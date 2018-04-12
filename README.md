@@ -12,3 +12,6 @@ Creating EC2 instances
 
 Describe EC2 instances
 1. use filer paramters to narrow down search result
+
+Delete EC2 instances
+1. Terminate EC2 instance using the instance id
