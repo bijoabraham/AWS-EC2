@@ -1,0 +1,14 @@
+{
+  "name": "awsec2",
+  "version": "1.0.0",
+  "description": "Aws ec2 using node sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bijo Abraham",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.224.1"
+  }
+}
